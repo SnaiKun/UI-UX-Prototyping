@@ -1,5 +1,7 @@
 # UI-UX-Prototyping
 
+This is the second step after the wireframing stage to build a fluid and user-friendly UI. The name of app is BlazeARM (just for project purpose).
+
 The design can be viewed by clicking on this link: 
 https://www.figma.com/design/DefjsST0th9KmVd4gWIMqy/BlazeARM?node-id=9%3A252&t=epVBjeRLByojpJ0X-1https://www.figma.com/design/DefjsST0th9KmVd4gWIMqy/BlazeARM?node-id=9%3A252&t=epVBjeRLByojpJ0X-1
 
